@@ -63,7 +63,7 @@ Sources: [Fireart web](https://fireart.studio/careers/)
 - Work-life balance
 - Code of conduct (Ethics, culture)
 
-![](../Users/Aini%20Bashir/Pictures/RevelTek.png)
+![Image](../Users/Aini%20Bashir/Pictures/RevelTek.png)
 ### Most features
 * Financial< Hospitality 
 * Website< IT Literacy
@@ -77,7 +77,7 @@ Sources: [Fireart web](https://fireart.studio/careers/)
 - Productivity, Management
 - Business strategy
 
-![](../Users/Aini%20Bashir/Pictures/RevelTek%202.png)
+![Image](../Users/Aini%20Bashir/Pictures/RevelTek%202.png)
 * Our Mission and Vision
 * Company History< Our Procedure
 * Business members< Culture
