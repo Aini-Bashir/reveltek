@@ -63,7 +63,7 @@ Sources: [Fireart web](https://fireart.studio/careers/)
 - Work-life balance
 - Code of conduct (Ethics, culture)
 
-![Pic](../Users/Aini%20Bashir/Pictures/RevelTek.png)
+![](../Users/Aini%20Bashir/Pictures/RevelTek.png)
 ### Most features
 * Financial< Hospitality 
 * Website< IT Literacy
@@ -149,3 +149,6 @@ All Service List
 - Jobs< Global Enterprise (Business auotomation)
 - Job Details< Curiosity Community
 - FAQ< Note Hive (GitHub, VS Code, Copywriting, Website development, UX design)
+
+Making Difference Growth Your Business With Modern Ideas< Directing Business Towards Success By Unity And Integrity
+Exclusive Video Presentation About Recent Project< We enjoy serving you the Best and feel satisfied
