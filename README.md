@@ -17,7 +17,7 @@
 
 ### Insights
 * Our belief/thoughts (Development, learning, flexibility, productivity)
-* Tech advocate ()
+* Tech advocate
 * Community (Hive, Team building, purpose, unity)
 * Mindfulness- Zen Habits, Healthy eating, problem-solving, Break after 4 hours, Clock-in/out, Clean Workspace, Yoga, and Exercise 
 
@@ -63,7 +63,7 @@ Sources: [Fireart web](https://fireart.studio/careers/)
 - Work-life balance
 - Code of conduct (Ethics, culture)
 
-![](../Users/Aini%20Bashir/Pictures/RevelTek.png)
+![Pic](../Users/Aini%20Bashir/Pictures/RevelTek.png)
 ### Most features
 * Financial< Hospitality 
 * Website< IT Literacy
@@ -139,13 +139,13 @@ All Service List
 - DevOps
 - Coding (C, C++, Python, Java)
 - Agile Methodology
-![](../Users/Aini%20Bashir/Pictures/RevelTek%202.png)
+![Pic](../Users/Aini%20Bashir/Pictures/RevelTek%202.png)
 
 ## 6. Industries
 - About us< Omni Spirit (Energy, Power, Union)
-- Our Team< Timmsi Training: [Timmsi guide](https://ignitecuriosity.org/learn/Leadership-Immersion.pdf), Curiosity Community, Leadership, Negotiation, Probelm-solving, Critical-Thinking
+- Our Team< Timmsi Training: [Timmsi guide](https://ignitecuriosity.org/learn/Leadership-Immersion.pdf), Curiosity Community, Leadership, Negotiation, Problem-solving, Critical-Thinking
 - Team Details< SILK Life (Cooperation, Culture, Interaction)
-- Careers< TAO lifestyle
-- Jobs< Global Enterprise
+- Careers< TAO lifestyle (Constant improvement, Zen Spaces, Architecture, Culinary management, Designing)
+- Jobs< Global Enterprise (Business auotomation)
 - Job Details< Curiosity Community
-- FAQ< Note Hive (GitHub, VS Code, Website development)
+- FAQ< Note Hive (GitHub, VS Code, Copywriting, Website development, UX design)
