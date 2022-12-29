@@ -1,1 +1,7 @@
-[Services.md](https://github.com/TaoFruit/reveltek/files/10259848/Services.md)
+Sustainability
+Artificial Intelligence
+Technology Innovation
+Business Strategy
+DevOps
+Business Analytics
+System Integration
